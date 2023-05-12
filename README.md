@@ -1,5 +1,6 @@
-# MAD_PROJECT_P2
+# Calculator
+A simple android calculator with Stylish Ui
 
-this is a simple CALCULATOR APPLICATION which built in ANDROID STUDIO USING JAVA . 
+![image](https://user-images.githubusercontent.com/55190831/82928738-8a19e200-9f7a-11ea-9f96-af66d5fe41b7.png)
 
-MADE BY - AMAN GOSWAMI(211B038) , AKSHAT JOSHI (211B033) 
+
